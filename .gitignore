@@ -1,0 +1,2 @@
+**/*.lock
+guessing_game/target hello_cargo/target
